@@ -1,2 +1,4 @@
 # Exploring-Air-Quality-over-the-Southwest-United-States-due-to-the-California-Wildfires
 #Python #RemoteSensing #NOAA #Amazon_AWS_S3 #BigDataAnalytics #CaliforniaWildfires
+
+NOAA's GOES-16 (EAST) Advanced Baseline Imager (ABI) sensor highlights the spatial and temporal evolution of the aerosol optical depth (AOD) over the southwest United States due the California wildfires between August 15 and 25, 2020. Majority of the wildfires were caused by cloud-to-ground lightning strikes (NASA). In this work, the first image from each hour were concatenated and converted into Graphics Interchange Format (GIF) for animation, although this senor has a temporal resoltuion of 5 minutes. Detailed explanation on the acquisition of these AOD imageries from the Amazon's S3 bucket can be accessed and cloned through this GitHub repository NOAA-GOES-16-ABI-AOD.
